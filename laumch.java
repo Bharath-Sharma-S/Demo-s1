@@ -1,10 +1,7 @@
 public class demon {
 	public static void main(string[] args){
 		System.Out.Println("Hello Welocme to git and gitHub");
-
-		System.Out.Println("Second line Code of the GitBash");
-		System.Out.Println("LaunchApp ");
-
+		System.Out.Println("Change is commit to git Bash Bro);
 
 		
 	}
